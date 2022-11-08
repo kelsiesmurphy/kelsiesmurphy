@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hey 👋
+- Pronouns: He/Him/His
+- I’m currently studying on the Professional Software Development course with CodeClan Glasgow.
 
 <!--
 **kelsiesmurphy/kelsiesmurphy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
