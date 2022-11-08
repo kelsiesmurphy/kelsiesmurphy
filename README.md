@@ -1,5 +1,5 @@
 ### Hey 👋
-- Pronouns: He/Him/His
+- My name is Kelsie (He/Him/His)
 - I’m currently studying on the Professional Software Development course with CodeClan Glasgow.
 
 <!--
