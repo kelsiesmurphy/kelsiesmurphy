@@ -1,6 +1,5 @@
 ### Hi there 👋, Kelsie
 #### I am currently studying with CodeClan Glasgow.
-I made this project just for fun, it allows you to create nice and simple GitHub Readme files that you can copy/paste and use in your profile.
 
 Skills: HTML / CSS / JS / Python / Flask / Three.js
 
