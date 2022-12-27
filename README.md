@@ -3,8 +3,8 @@
 
 Skills: HTML / CSS / JS / Python / Flask / Three.js
 
-- 🔭 I’m currently working on the Three.js Journey course. 
-- 🌱 I’m currently learning Javascript 
+- 🔭 I’m also currently working on the Three.js Journey course. 
+- 🌱 I’m currently learning React with CodeClan
 - 😄 Pronouns: He/Him/His 
 
 
