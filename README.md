@@ -10,7 +10,7 @@
 
 - 📓 I’m currently attending a software development bootcamp with **[CodeClan, Glasgow](https://codeclan.com/courses/professional-software-development/)**
 
-- 💬 Ask me about **React, Three.js, APIs, CSS or No-Code tools**
+- 💬 Let's chat about **React, Three.js, APIs, CSS or No-Code tools**
 
 - 📫 How to reach me **kelsie@kelsiesmurphy.com**
 
