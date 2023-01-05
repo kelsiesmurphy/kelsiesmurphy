@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Kelsie Murphy</h1>
-<h3 align="center">A developer with a passion for Front end and all things user experience.</h3>
+<h3 align="center">A developer with a passion for front-end and all things user experience.</h3>
 
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/77012426/210774469-0aa380e0-262d-40dd-87de-b84129fd6292.gif"/>
 
