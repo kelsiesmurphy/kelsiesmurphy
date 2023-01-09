@@ -4,7 +4,7 @@
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/77012426/210774469-0aa380e0-262d-40dd-87de-b84129fd6292.gif"/>
 
 
-- 🔭 I’m currently working on [Surveyflow](https://dribbble.com/shots/20300369-Surveyflow-Surveys-should-be-simple-to-use)
+- 🔭 I’m currently working on **[Surveyflow](https://dribbble.com/shots/20300369-Surveyflow-Surveys-should-be-simple-to-use)**
 
 - 🌱 I’m in the process of learning **React, Three.js**
 
