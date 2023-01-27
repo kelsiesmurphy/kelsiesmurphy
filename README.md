@@ -1,6 +1,12 @@
 <h1 align="center">Hi 👋, I'm Kelsie</h1>
 <h3 align="center">A developer with a passion for front-end and all things user experience.</h3>
 
+
+<script src="https://unpkg.com/@lottiefiles/lottie-player@latest/dist/lottie-player.js"></script> 
+
+
+    <lottie-player src="https://lottie.host/200bb992-c828-4ca5-b6cc-0b19dec4c961/LPafS5hOZP.json" background="transparent" speed="1" style="width: 300px; height: 300px;" loop autoplay></lottie-player>
+
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/77012426/210774469-0aa380e0-262d-40dd-87de-b84129fd6292.gif"/>
 
 
