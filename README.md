@@ -1,13 +1,11 @@
 <h1 align="center">Hi 👋, I'm Kelsie</h1>
 <h3 align="center">A developer with a passion for front-end and all things user experience.</h3>
 
-- I’m currently working on **[Surveyflow](https://github.com/kelsiesmurphy/surveyflow)**
-
-- I’m in the process of learning **React, Three.js**
+- I’m currently working on **[Surveyflow](https://github.com/kelsiesmurphy/surveyflow)**, and learning Three.js
 
 - I’m currently attending a software development bootcamp with **[CodeClan, Glasgow](https://codeclan.com/courses/professional-software-development/)**
 
-- 📫 How to reach me **kelsie@kelsiesmurphy.com**
+- How to reach me **kelsie@kelsiesmurphy.com**
 
 
 <h3 align="left">Connect with me:</h3>
