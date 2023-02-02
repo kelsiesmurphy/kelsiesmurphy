@@ -11,10 +11,10 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 
-<a style="margin-right: 10px" href="https://twitter.com/kelsiesmurphy" target="blank"><img align="center" src="https://user-images.githubusercontent.com/77012426/210771440-01ad850b-373d-46ab-b34c-7abb8b3c61bd.svg" alt="Kelsie Murphy Twitter link" height="30" width="30" /></a>
-<a style="margin-right: 10px" href="https://www.linkedin.com/in/kelsiesmurphy/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/77012426/210771461-b7fd3667-5880-4aad-bf84-7c606ff83e22.svg" alt="Kelsie Murphy LinkedIn link" height="30" width="30" /></a>
-<a style="margin-right: 10px" href="https://dribbble.com/kelsiesmurphy" target="blank"><img align="center" src="https://user-images.githubusercontent.com/77012426/210771406-8798e174-d5d6-4e88-afb3-0c42b10d1bc4.svg" alt="Kelsie Murphy Dribbble link" height="30" width="30" /></a>
-<a style="margin-right: 10px" href="https://github.com/kelsiesmurphy" target="blank"><img align="center" src="https://user-images.githubusercontent.com/77012426/210771449-849d468e-a58b-45b1-984e-1dc374afe4f0.svg" alt="Kelsie Murphy Github link" height="30" width="30" /></a>
+<a style="margin-right: 10px" href="https://twitter.com/kelsiesmurphy" target="blank"><img align="center" src="https://user-images.githubusercontent.com/77012426/216196566-a1271e6d-c8dc-411b-bc45-d0cdb430333d.svg" alt="Kelsie Murphy Twitter link" height="30" width="30" /></a>
+<a style="margin-right: 10px" href="https://www.linkedin.com/in/kelsiesmurphy/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/77012426/216196564-2f65ac61-fb0b-41e4-b1bf-954c7ac487a0.svg" alt="Kelsie Murphy LinkedIn link" height="30" width="30" /></a>
+<a style="margin-right: 10px" href="https://dribbble.com/kelsiesmurphy" target="blank"><img align="center" src="https://user-images.githubusercontent.com/77012426/216196559-189fcd87-f734-4ce5-af82-b15d77b53e14.svg" alt="Kelsie Murphy Dribbble link" height="30" width="30" /></a>
+<a style="margin-right: 10px" href="https://github.com/kelsiesmurphy" target="blank"><img align="center" src="https://user-images.githubusercontent.com/77012426/216196563-3ea2c66c-014d-4b90-a632-83848b67b6b8.svg" alt="Kelsie Murphy Github link" height="30" width="30" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
