@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Kelsie</h1>
+<h1 align="center">Hi 👋, I'm [Kelsie](https://www.kelsiesmurphy.com/)</h1>
 <h3 align="center">A developer with a passion for coding for good and creating a next-level user experience.</h3>
 
 - I’m currently working on my personal project, **[Surveyflow](https://github.com/kelsiesmurphy/surveyflow)**, and learning Three.js
