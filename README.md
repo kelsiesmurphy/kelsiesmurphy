@@ -3,7 +3,7 @@
 
 - I’m currently working on **[Pickup](https://github.com/kelsiesmurphy/pickup)**, and learning Three.js
 
-- I’m currently attending a software development bootcamp with **[CodeClan, Glasgow](https://codeclan.com/courses/professional-software-development/)**
+- I’ve recently graduated from **[CodeClan, Glasgow](https://codeclan.com/courses/professional-software-development/)**, an intensive course that teaches Python, Javascript, React, Java, AWS, TDD and paired programming.
 
 - How to reach me **kelsie@kelsiesmurphy.com** or visit [my website](https://www.kelsiesmurphy.com/) to see my work!
 
