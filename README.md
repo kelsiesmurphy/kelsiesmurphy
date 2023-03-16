@@ -3,7 +3,7 @@
 
 - I’m currently working on **[Surveyflow](https://github.com/kelsiesmurphy/surveyflow)**, learning Typescript and looking for junior developer roles.
 
-- I have put together a set of [Sustainable Web Resources](https://github.com/kelsiesmurphy/sustainable-web-resources), which I update frequently.
+- I have put together a set of **[Sustainable Web Resources](https://github.com/kelsiesmurphy/sustainable-web-resources)**, which I update frequently.
 
 - I’ve recently graduated from **[CodeClan, Glasgow](https://codeclan.com/courses/professional-software-development/)**, an intensive course that teaches Python, Javascript, React, Java, AWS, TDD and paired programming.
 
