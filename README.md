@@ -5,9 +5,9 @@
 
 - I have put together a set of **[Sustainable Web Resources](https://github.com/kelsiesmurphy/sustainable-web-resources)**, which I update frequently.
 
-- I’ve recently graduated from **[CodeClan, Glasgow](https://codeclan.com/courses/professional-software-development/)**, an intensive course that teaches Python, Javascript, React, Java, AWS, TDD and paired programming.
+- **[CodeClan, Glasgow](https://codeclan.com/courses/professional-software-development/)**, G34 alumni an intensive course that teaches Python, Javascript, React, Java, AWS, TDD and paired programming.
 
-- Say hello at **kelsie@kelsiesmurphy.com** or visit [my website](https://www.kelsiesmurphy.com/) to see my work!
+- Say hello at **kelsie@kelsiesmurphy.com** or visit **[my website](https://www.kelsiesmurphy.com/)** to see my work!
 
 
 <h3 align="left">Connect with me:</h3>
