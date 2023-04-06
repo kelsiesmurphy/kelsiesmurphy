@@ -3,7 +3,7 @@
 
 - I’m currently working on **[PlanetCareer](https://github.com/kelsiesmurphy/planetcareer)**, learning Typescript and looking for junior developer roles.
 
-- I have put together a set of **[Sustainable Web Resources](https://github.com/kelsiesmurphy/sustainable-web-resources)**, which I update frequently.
+- I have put together a set of **[Sustainable Web Resources](https://github.com/kelsiesmurphy/sustainable-web-resources)**, for other developers who are inspired to develop sustainably.
 
 - **[CodeClan, Glasgow](https://codeclan.com/courses/professional-software-development/)** G34 alumni, an intensive 800 hour course that teaches Python, Javascript, React, Java, AWS, TDD, paired programming and more.
 
