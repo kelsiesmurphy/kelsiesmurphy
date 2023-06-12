@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Kelsie</h1>
 <h3 align="center">A developer with a passion for coding for good and creating a next-level user experience.</h3>
 
-- I’m currently working on **[PlanetCareer](https://github.com/kelsiesmurphy/planetcareer)**, learning Typescript and looking for junior developer roles. In my spare time i've been volunteering with **[Scottish Tech Army](https://github.com/Scottish-Tech-Army/Volunteer-app)** on their React Native/Typescript Volunteering App.
+- I’m currently a Graduate Software Engineer with [BJSS](https://www.bjss.com/), and in my personal time i'm working on **[PlanetCareer](https://github.com/kelsiesmurphy/planetcareer)**, and volunteering with **[Scottish Tech Army](https://github.com/Scottish-Tech-Army/Volunteer-app)** on their React Native/Typescript Volunteering App.
 
 - I have put together a set of **[Sustainable Web Resources](https://github.com/kelsiesmurphy/sustainable-web-resources)**, for other developers who are inspired to develop sustainably.
 
