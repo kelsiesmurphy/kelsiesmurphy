@@ -5,8 +5,6 @@
 
 - I have put together a set of **[Sustainable Web Resources](https://github.com/kelsiesmurphy/sustainable-web-resources)**, for other developers who are inspired to develop sustainably.
 
-- **[CodeClan, Glasgow](https://codeclan.com/courses/professional-software-development/)** G34 alumni, an intensive 800 hour course that teaches Python, Javascript, React, Java, AWS, TDD, paired programming and more.
-
 - Say hello at **kelsie@kelsiesmurphy.com** or visit **[my website](https://www.kelsiesmurphy.com/)** to see my work!
 
 
