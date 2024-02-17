@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Kelsie</h1>
-<h3 align="center">A developer with a passion for coding for good and creating a next-level user experience.</h3>
+<h3 align="center">A developer with a passion for sustainable software engineering.</h3>
 
 - I’m a Graduate Software Engineer with **[BJSS](https://www.bjss.com/)**.
 
