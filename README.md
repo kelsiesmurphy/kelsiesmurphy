@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Kelsie</h1>
 <h3 align="center">A developer with a passion for sustainable software engineering.</h3>
 
-- I’m a Software Engineer with **[BJSS](https://www.bjss.com/)**.
+- I’m a Software Engineer with **[CGI]([https://www.bjss.com/](https://www.cgi.com/uk/en-gb))**.
 
 - I have put together a set of **[Sustainable Web Resources](https://github.com/kelsiesmurphy/sustainable-web-resources)**, for other developers who are inspired to develop sustainably.
 
