@@ -1,9 +1,11 @@
 <h1 align="center">Hi 👋, I'm Kelsie</h1>
 <h3 align="center">A developer with a passion for sustainable software engineering.</h3>
 
-- I’m a Software Engineer with **[CGI]([https://www.bjss.com/](https://www.cgi.com/uk/en-gb))**.
+- I’m a Software Engineer with **[CGI]([https://www.bjss.com/](https://www.cgi.com/uk/en-gb))** where I currently am embedded in the team of a client in the energy sector.
 
-- I have put together a set of **[Sustainable Web Resources](https://github.com/kelsiesmurphy/sustainable-web-resources)**, for other developers who are inspired to develop sustainably.
+- I occasionally speak at, and volunteer to host talks in Glasgow, Scotland, from [GlasgowJS](https://www.meetup.com/glasgow-javascript/) to [People Planet Pint](https://small99.co.uk/people-planet-pint-meetup/)
+
+- I have also put together a set of **[Sustainable Web Resources](https://github.com/kelsiesmurphy/sustainable-web-resources)**, for other developers who are inspired to develop sustainably, which inspired me to build the [GreenCheck Browser Extension](https://getgreencheck.com/).
 
 - Visit **[my website](https://www.kelsiesmurphy.com/)** to see my work!
 
