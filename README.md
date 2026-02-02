@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Kelsie</h1>
 <h3 align="center">A developer with a passion for sustainable software engineering.</h3>
 
-- I’m a Software Engineer with **[CGI]([https://www.bjss.com/](https://www.cgi.com/uk/en-gb))** where I currently am embedded in the team of a client in the energy sector.
+- I’m a Software Engineer with **[ScribePro](https://scribepro.co/)** where I currently am embedded in the team of a client in the energy sector.
 
 - I occasionally speak at, and volunteer to host talks in Glasgow, Scotland, from [GlasgowJS](https://www.meetup.com/glasgow-javascript/) to [People Planet Pint](https://small99.co.uk/people-planet-pint-meetup/)
 
